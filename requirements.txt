@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+python-dotenv
+sentence-transformers
+gradio
+pypdf
+requests==2.32.4
+opentelemetry-exporter-otlp-proto-grpc
+posthog
+pybase64
